@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-- 🌱 I’m currently LEARNING Full Stack Devlopment
-<!-- - 😊 I'm intersted in  -->
-- 📫 How to reach me: 55placebo8.8.3@gmail.com
-- [My Page](https://chengjackjelly.github.io)
+#### I am currently working on:
+
+- react for frontend
+- gitlab ci/cd
+- springboot for backend
+
+#### Things I want to learn:
+- vim (vimtutor)
+- CMake [doc](https://cliutils.gitlab.io/modern-cmake/)
+- server side rendering
+- go
+
+[My Page](https://chengjackjelly.github.io)
