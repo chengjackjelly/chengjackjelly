@@ -5,6 +5,7 @@
 - react for frontend
 - gitlab ci/cd
 - springboot for backend
+- ETL pipeline
 
 #### Things I want to learn:
 - vim (vimtutor)
