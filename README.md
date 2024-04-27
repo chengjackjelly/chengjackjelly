@@ -2,15 +2,14 @@
 
 #### I am currently working on:
 
-- react for frontend
+- nexjs
 - gitlab ci/cd
-- springboot for backend
+- springboot
 - ETL pipeline
 
 #### Things I want to learn:
 - vim (vimtutor)
 - CMake [doc](https://cliutils.gitlab.io/modern-cmake/)
-- server side rendering
 - go
 
 [My Page](https://chengjackjelly.github.io)
