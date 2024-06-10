@@ -2,7 +2,7 @@
 
 #### I am currently working on:
 
-- data visualization(ploty/pandas...)
+- data visualization(plotly/pandas...)
 - react
 - vim
 
