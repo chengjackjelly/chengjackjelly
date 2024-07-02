@@ -2,8 +2,8 @@
 
 #### I am currently working on:
 
-- data visualization(plotly/pandas...)
-- react
+- python
+- pandas/polars
 - vim
 
 [My Page](https://chengjackjelly.github.io)
