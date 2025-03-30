@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 #### I am interested in:
 
@@ -7,8 +7,6 @@
   
 #### I am currently working on:
 
-- i want to finish all the pintos project!!!!
-- a multi-player game server with customized designed application layer protocol
-- implementing some new features for local file searching engine in rust (just to learn rust)(probably wont continue until i finish all the things above)(c is good for me so far i want to learn more about c!)
+- mit 6.S081 xv6 lab
 
 [My Page](https://chengjackjelly.github.io)
